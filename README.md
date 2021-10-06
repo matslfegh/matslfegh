@@ -1,11 +1,9 @@
 Olá Pessoal, eu sou o Matheus Freitas! 😉
 
+- 💻 Programador em formação.
 - 📝 Atualmente cursando Sistemas para Internet pela PUC Minas.
-- 💻 Estudando HTML, CSS e JavaScript.
+- 🌱 Aprendendo HTML, CSS e JavaScript.
 
 
-<div>
-  <a href> https://github.com/matslfegh
-  
-</div>
+
 
